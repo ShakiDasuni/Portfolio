@@ -325,3 +325,7 @@ i {
     animation: imgFloat 5s ease-in-out infinite;
 }
 
+.image img {
+    width: 500px;
+    height: 700px;
+}
